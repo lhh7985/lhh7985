@@ -1,9 +1,15 @@
 ### 👋 Hi there! I'm Junior BackEnd Developer.🌱
 
+#### :wrench: Tech Stacks
+##### Techs that i've used at least once :muscel:
+
+<img src="https://img.shields.io/badge/Java--3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
 
 
 <!--
 **lhh7985/lhh7985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
