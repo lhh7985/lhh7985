@@ -34,14 +34,9 @@
 </div>
 
 [![HoHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhh7985&show_icons=true&theme=radical)](https://github.com/lhh7985/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhh7985&layout=compact&show_icons=true&theme=radical)](https://github.com/lhh7985/github-readme-stats)
-<table>
-  <tr>
-    <td>
-       <a href="https://solved.ac/lhh7985"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lhh7985"/></a>
-    </td>
- </tr>
-</table>
+<a href="https://solved.ac/lhh7985"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lhh7985"/></a>
 
 
 
