@@ -26,8 +26,7 @@
 
 
 <div>
-  [![github stats](https://github-readme-stats.vercel.app/api?username={lhh7985})](https://github.com/anuraghazra/github-readme-stats)
-  [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username={lhh7985}&count_private={true}&custom_title={Hwang GitHub}&bg_color={180,blue,skyBlue}&title_color={ffffff}&text_color={ffffff})](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhh7985)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
