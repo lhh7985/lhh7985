@@ -1,10 +1,15 @@
 ### 👋 Hi there! I'm Junior BackEnd Developer.🌱
 #### 웹 개발에 관심이 있는 신입 개발자 이호황입니다.
 
-#### [포트폴리오](https://www.notion.so/a5c34194b5ea457197d2a80ed99ed689)
 
-<h3> :wrench: Tech Stacks</h3>
-<h4> Techs that i've used at least once :muscle: </h4>
+<div>
+  #### [포트폴리오](https://www.notion.so/a5c34194b5ea457197d2a80ed99ed689)
+</div>
+
+<div>
+  <h3> :wrench: Tech Stacks</h3>
+  <h4> Techs that i've used at least once :muscle: </h4>
+</div>
 
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
