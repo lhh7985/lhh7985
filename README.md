@@ -26,8 +26,8 @@
 
 
 
- [![HoHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhh7985)](https://github.com/lhh7985/github-readme-stats)
-
+[![HoHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhh7985)](https://github.com/lhh7985/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhh7985&layout=compact)](https://github.com/lhh7985/github-readme-stats)
 
 
 
