@@ -24,7 +24,9 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white">
 </div>
 
-
+<div>
+  <h2>🌏Languages</h2>
+</div>
 
 [![HoHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhh7985)](https://github.com/lhh7985/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhh7985&layout=compact)](https://github.com/lhh7985/github-readme-stats)
