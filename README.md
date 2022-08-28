@@ -3,7 +3,7 @@
 #### :wrench: Tech Stacks
 ##### Techs that i've used at least once :muscel:
 
-<img src="https://img.shields.io/badge/Java--3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/SpringBoot--00FF33?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
 
 
 <!--
