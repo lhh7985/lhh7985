@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there! I'm Junior BackEnd Developer.🌱
+
+
 
 <!--
 **lhh7985/lhh7985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
