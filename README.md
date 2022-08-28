@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Junior BackEnd Developer.🌱
 
-#### :wrench: Tech Stacks
-##### Techs that i've used at least once :muscle:
+<h3> :wrench: Tech Stacks</h3>
+#### Techs that i've used at least once :muscle:
 
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
